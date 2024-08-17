@@ -38,5 +38,8 @@ public class StateMachine
     {
         Idle,
         Patrol,
-        Persuit
+        Persuit,
+        Atack,
+        Defend,
+        Foward,
     }

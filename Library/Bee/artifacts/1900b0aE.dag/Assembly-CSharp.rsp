@@ -343,6 +343,9 @@
 "Assets/FSM CLASE/FSM/Transition.cs"
 "Assets/FSM CLASE/Personaje.cs"
 "Assets/FSM CLASE/Utility.cs"
+"Assets/Life.cs"
+"Assets/Mineon.cs"
+"Assets/MineonManager.cs"
 "Assets/NavegationArea.cs"
 "Assets/NavNode.cs"
 "Assets/NewBoids/Scrips/CanvasDataManager.cs"
@@ -357,9 +360,13 @@
 "Assets/Scrips/Fsm/StateMachine.cs"
 "Assets/Scrips/Fsm/States/IdleState.cs"
 "Assets/Scrips/Fsm/States/Istate.cs"
+"Assets/Scrips/Fsm/States/MinionsStates/MineonAtackState.cs"
+"Assets/Scrips/Fsm/States/MinionsStates/MineonFowardState.cs"
+"Assets/Scrips/Fsm/States/MinionsStates/MinionsDefendState.cs"
 "Assets/Scrips/Fsm/States/PatrolState.cs"
 "Assets/Scrips/Fsm/States/PersuitState.cs"
 "Assets/Scrips/TestScrips/SpaceBar.cs"
+"Assets/Tower.cs"
 -langversion:9.0
 
 /deterministic
